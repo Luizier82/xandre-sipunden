@@ -1,20 +1,15 @@
-# ♟️ Xadrez Naruto (Terminal Edition)
+# ♟️ Xadrez Naruto (Terminal)
 
-Um jogo simples em **C** que mostra os movimentos válidos de peças de xadrez (Torre, Bispo, Rainha e Cavalo), com **tema Naruto** (tabuleiro preto e laranja).
-
----
-
-## 🧰 Requisitos
-
-- GCC (ou outro compilador C)
-- Terminal com suporte a cores ANSI (para ver o tema Naruto)
+Um mini jogo de xadrez com tema Naruto, feito em C, rodando direto no navegador!
 
 ---
 
-## 🚀 Como compilar e executar
+## 🌀 Como jogar
 
-```bash
-git clone https://github.com/<seu-usuario>/xadrez-naruto.git
-cd xadrez-naruto
-make
-./xadrez-naruto
+Clique no botão abaixo para abrir o **GitHub Codespace** e jogar:
+
+[![Abrir no Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/<SEU-USUARIO>/<SEU-REPO>?quickstart=1)
+
+---
+
+Use o terminal que abrir para jogar:
