@@ -1,0 +1,5 @@
+xadrez-naruto/
+│
+├── main.c
+├── Makefile
+└── README.md
