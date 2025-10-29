@@ -1,5 +1,3 @@
-# Makefile para compilar o Xadrez Naruto
-
 CC = gcc
 CFLAGS = -Wall -Wextra -std=c11
 
