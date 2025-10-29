@@ -1,5 +1,7 @@
-xadrez-naruto/
-│
-├── main.c
-├── Makefile
-└── README.md
+.devcontainer/
+├── devcontainer.json
+└── Dockerfile
+main.c
+Makefile
+README.md
+
