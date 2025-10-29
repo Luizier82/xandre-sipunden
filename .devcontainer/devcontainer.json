@@ -1,0 +1,10 @@
+{
+  "name": "Xadrez Naruto",
+  "image": "gcc:latest",
+  "postCreateCommand": "make && ./xadrez-naruto",
+  "customizations": {
+    "vscode": {
+      "terminal.integrated.shell.linux": "/bin/bash"
+    }
+  }
+}
